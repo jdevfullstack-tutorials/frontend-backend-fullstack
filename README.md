@@ -38,9 +38,12 @@ Another thing to note is that
 in the field of software development,
 we tend to work on abstraction by 
 adding another layer just like the 
-presentation. Even nowadays, there is
+image above. Even nowadays, there is
 the current trend of no-code & low-code
-software dev. It's all bytes being
+software dev, so that would
+be another level of abstraction. 
+
+But it's all bytes being
 transferred to another machine in the 
 end. What we see is an outputted
 result not 0s and 1s (representation
