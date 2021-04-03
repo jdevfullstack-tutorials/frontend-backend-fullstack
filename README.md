@@ -115,7 +115,7 @@ Think of it just like the practice
 back then when a writer submitted his
 written work so that it could be published.
 The writer would leave there annotations so that
-when it is printed, it would be printed
+when it would be printed, it would be
 exactly the writer wanted it.  
 
 ---
