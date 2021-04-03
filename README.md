@@ -37,7 +37,16 @@ we tend to work on abstraction by
 adding another layer just like the 
 presentation. Even nowadays, there is
 the current trend of no-code & low-code
-software dev.
+software dev. It's all bytes being
+transferred to another machine in the 
+end. What we see is an outputted
+result not 0s and 1s (representation
+of electric pulse).
+
+![photo](http://2.bp.blogspot.com/-zNs0qByp3II/VKLqnjAgqcI/AAAAAAAAAKU/WmwiZQyKbfM/s1600/PROG-LAN.gif)
+
+(photo credit:
+<http://2.bp.blogspot.com/-zNs0qByp3II/VKLqnjAgqcI/AAAAAAAAAKU/WmwiZQyKbfM/s1600/PROG-LAN.gif>)
 
 ## Front-End Dev
 The technologies that comprise frontend are
