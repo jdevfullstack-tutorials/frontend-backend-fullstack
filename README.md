@@ -1,6 +1,7 @@
 # Front End vs Back End vs Full Stack
-It all started as one just like what Mark Zuckerberg
-did in his platform Facebook but nowadays it's getting
+Calm down! It all started as one just like 
+what Mark Zuckerberg did in his platform Facebook.
+But nowadays it's getting
 bigger and bigger, more sophisticated technologies.
 
 ## What You Should Know
