@@ -69,6 +69,24 @@ can claim that he is a Full Stack developer,
 much like Mark Zuckerberg when he built
 his Facebook in the early days of this platform.
 
+## About HTML
+It is very important to mention HTML. Others
+considers HTML as programming language.
+
+Take note, IT IS NOT A PROGRAMMING LANGUAGE.
+Rather, it is a markup language. 
+
+HTML came from SGML (Standardized Generalized
+Markup Language) and SGML is also
+a markup language. You can call a markup
+language as metalanguage. It deals with anotation.
+Think of it just like the practice
+back then when a writer submits his
+written work so that it can be published.
+The writer leaves there annotations so that
+when it is printed, it would be printed
+exactly the writer wanted it.  
+
 ---
 So the next time you encounter these terms
 you would not be in awe just like
