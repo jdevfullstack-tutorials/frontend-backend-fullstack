@@ -39,7 +39,7 @@ presentation. Even nowadays, there is
 the current trend of no-code & low-code
 software dev.
 
-## Front End
+## Front-End Dev
 The technologies that comprise frontend are
 technologies that reside on the browser.
 
@@ -56,7 +56,7 @@ that, you can check out my program:
 So, JavaScript and all technologies that
 is mainly for the browser is considered frontend.
 
-## Back End
+## Back-End Dev
 If your code is directly talking to a server
 or directly manipulates a database, that is 
 considered backend. It resides on the server
@@ -80,7 +80,7 @@ to automate things for you. The script
 will do the job that otherwise you would
 do manually.
 
-## Full Stack
+## Full-Stack Dev
 So, combining things together, if a 
 developer is talented enough to handle
 both server-side and browser-side, he
