@@ -43,10 +43,10 @@ end. What we see is an outputted
 result not 0s and 1s (representation
 of electric pulse).
 
-![photo](http://2.bp.blogspot.com/-zNs0qByp3II/VKLqnjAgqcI/AAAAAAAAAKU/WmwiZQyKbfM/s1600/PROG-LAN.gif)
+![photo](https://images.slideplayer.com/19/5827227/slides/slide_3.jpg)
 
 (photo credit:
-<http://2.bp.blogspot.com/-zNs0qByp3II/VKLqnjAgqcI/AAAAAAAAAKU/WmwiZQyKbfM/s1600/PROG-LAN.gif>)
+<https://images.slideplayer.com/19/5827227/slides/slide_3.jpg>)
 
 ## Front-End Dev
 The technologies that comprise frontend are
