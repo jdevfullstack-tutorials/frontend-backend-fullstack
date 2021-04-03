@@ -18,7 +18,10 @@ nowadays is already a very comprehensive field.
 
 And it's very important to understand this:
 
-(image with several stacks)
+![photo](https://images.slideplayer.com/19/5827227/slides/slide_3.jpg)
+
+(photo credit:
+<https://images.slideplayer.com/19/5827227/slides/slide_3.jpg>)
 
 Programming languages that are considered
 high-level because it is not close
@@ -42,11 +45,6 @@ transferred to another machine in the
 end. What we see is an outputted
 result not 0s and 1s (representation
 of electric pulse).
-
-![photo](https://images.slideplayer.com/19/5827227/slides/slide_3.jpg)
-
-(photo credit:
-<https://images.slideplayer.com/19/5827227/slides/slide_3.jpg>)
 
 ## Front-End Dev
 The technologies that comprise frontend are
