@@ -112,9 +112,9 @@ a markup language. You can also call a markup
 language a metalanguage. 
 It deals with annotation.
 Think of it just like the practice
-back then when a writer submits his
-written work so that it can be published.
-The writer leaves there annotations so that
+back then when a writer submitted his
+written work so that it could be published.
+The writer would leave there annotations so that
 when it is printed, it would be printed
 exactly the writer wanted it.  
 
