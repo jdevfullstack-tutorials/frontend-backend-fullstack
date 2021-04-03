@@ -1,4 +1,4 @@
-# Frontend VS Backend VS Fullstack
+# Front End vs Back End vs Full Stack
 It all started as one just like what Mark Zuckerberg
 did in his platform Facebook but nowadays its getting
 bigger and bigger, more sophisticated technologies.
@@ -20,7 +20,7 @@ And it's very important to understand this:
 
 (image with several stacks)
 
-## Frontend
+## Front End
 The technologies that comprise frontend are
 technologies that reside on the browser.
 
@@ -37,7 +37,7 @@ that, you can check out my program:
 So, JavaScript and all technologies that
 is mainly for the browser is considered frontend.
 
-## Backend
+## Back End
 If your code is directly talking to a server
 or directly manipulates a database, that is 
 considered backend. It resides on the server
