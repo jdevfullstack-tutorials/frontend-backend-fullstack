@@ -38,6 +38,27 @@ So, JavaScript and all technologies that
 is mainly for the browser is considered frontend.
 
 ## Backend
+If your code is directly talking to a server
+or directly manipulates a database, that is 
+considered backend. It resides on the server
+side.
 
+When a page is requested, say, a PHP code
+is in charge of outputting the HTML,
+the page that a user will be seeing is the 
+end product of PHP, but the PHP, as the 
+script resides at the server-side,
+doing things to output the requested HTML.
+
+But why do we need to code in PHP if
+the end result is simply an HTML? 
+Why not simply write directly the HTML?
+
+If your site is simply static, well, you can
+do that. But if your website is just like
+an app, then you need to have a script
+to automate things for you. The script
+will do the job that otherwise you would
+do manually.
 
 ## Full Stack
