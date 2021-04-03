@@ -20,6 +20,25 @@ And it's very important to understand this:
 
 (image with several stacks)
 
+Programming languages that are considered
+high-level because it is not close
+to the machine language. A browser is an app
+that is programmed to run on your local
+computer. So, it adds another layer.
+Whether you are running any script, be
+it server-side or browser-side, it
+runs on top of the browser. If not, that
+will be a security issue just
+like the Java app container.
+
+Another thing to note is that
+in the field of software development,
+we tend to work on abstraction by 
+adding another layer just like the 
+presentation. Even nowadays, there is
+the current trend of no-code & low-code
+software dev.
+
 ## Front End
 The technologies that comprise frontend are
 technologies that reside on the browser.
