@@ -1,6 +1,6 @@
 # Front End vs Back End vs Full Stack
 It all started as one just like what Mark Zuckerberg
-did in his platform Facebook but nowadays its getting
+did in his platform Facebook but nowadays it's getting
 bigger and bigger, more sophisticated technologies.
 
 ## What You Should Know
@@ -45,7 +45,7 @@ technologies that reside on the browser.
 
 Remember too that a browser is a program,
 much like anything that runs on your local
-computer, but is, of course, have the full
+computer but, of course, have the full
 Internet functions. It's communicating
 in terms of the four GET, POST, DELETE, UPDATE
 status of HTTP. If you are interested to see
@@ -54,12 +54,12 @@ that, you can check out my program:
 (lightweight web server)
 
 So, JavaScript and all technologies that
-is mainly for the browser is considered frontend.
+are mainly for the browser are considered front-end.
 
 ## Back-End Dev
 If your code is directly talking to a server
 or directly manipulates a database, that is 
-considered backend. It resides on the server
+considered back-end. It resides on the server
 side.
 
 When a page is requested, say, a PHP code
@@ -91,15 +91,16 @@ his Facebook in the early days of this platform.
 ## About HTML
 It is very important to mention HTML
 because it's the ending of all development.
-Others considers HTML as programming language.
+Others consider HTML as a programming language.
 
 Take note, IT IS NOT A PROGRAMMING LANGUAGE.
 Rather, it is a markup language. 
 
 HTML came from SGML (Standardized Generalized
 Markup Language) and SGML is also
-a markup language. You can call a markup
-language as metalanguage. It deals with anotation.
+a markup language. You can also call a markup
+language as as a metalanguage. 
+It deals with annotation.
 Think of it just like the practice
 back then when a writer submits his
 written work so that it can be published.
