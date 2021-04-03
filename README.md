@@ -99,7 +99,7 @@ Rather, it is a markup language.
 HTML came from SGML (Standardized Generalized
 Markup Language) and SGML is also
 a markup language. You can also call a markup
-language as a metalanguage. 
+language a metalanguage. 
 It deals with annotation.
 Think of it just like the practice
 back then when a writer submits his
