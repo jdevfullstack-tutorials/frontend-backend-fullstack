@@ -70,8 +70,9 @@ much like Mark Zuckerberg when he built
 his Facebook in the early days of this platform.
 
 ## About HTML
-It is very important to mention HTML. Others
-considers HTML as programming language.
+It is very important to mention HTML
+because it's the ending of all development.
+Others considers HTML as programming language.
 
 Take note, IT IS NOT A PROGRAMMING LANGUAGE.
 Rather, it is a markup language. 
