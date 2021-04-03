@@ -62,3 +62,9 @@ will do the job that otherwise you would
 do manually.
 
 ## Full Stack
+So, combining things together, if a 
+developer is talented enough to handle
+both server-side and browser-side, he
+can claim that he is a Full Stack developer,
+much like Mark Zuckerberg when he built
+his Facebook in the early days of this platform.
