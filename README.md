@@ -66,6 +66,11 @@ that, you can check out my program:
 So, JavaScript and all technologies that
 are mainly for the browser are considered front-end.
 
+`Vue.js` is considered to be a framework
+of JavaScript for web interfaces and 
+`Twitter Bootstrap` mainly for the layout
+across multiple devices.
+
 ## Back-End Dev
 If your code is directly talking to a server
 or directly manipulates a database, that is 
