@@ -63,13 +63,14 @@ that, you can check out my program:
 
 <https://github.com/xdvrx1/lightweight-web-server>
 
-So, JavaScript and all technologies that
+So, for example, JavaScript and all technologies that
 are mainly for the browser are considered front-end.
-
 `Vue.js` is considered to be a framework
-of JavaScript for web interfaces and 
-`Twitter Bootstrap` mainly for the layout
-across multiple devices.
+of JavaScript for web interfaces 
+while we can say that `Angular` is for
+heavyweight development. 
+`Twitter Bootstrap` is mainly for the layout
+across multiple devices. 
 
 ## Back-End Dev
 If your code is directly talking to a server
