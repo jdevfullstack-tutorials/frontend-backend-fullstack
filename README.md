@@ -68,3 +68,10 @@ both server-side and browser-side, he
 can claim that he is a Full Stack developer,
 much like Mark Zuckerberg when he built
 his Facebook in the early days of this platform.
+
+---
+So the next time you encounter these terms
+you would not be in awe just like
+when you don't have the idea yet. They
+are just programmers (with, of course,
+different focus) in the end.
