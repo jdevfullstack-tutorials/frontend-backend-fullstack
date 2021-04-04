@@ -54,7 +54,7 @@ of electric pulse).
 
 And finally, if you never heard
 of computer network programming,
-it's worth learning the basic
+it's worth learning the basics
 even if this is not your interest.
 It will give you the full understanding
 of all the things that we have now.
@@ -82,10 +82,10 @@ capability of computer networking.
 By finding a way to display information
 just like a site, not through
 upload and download of FTP, he simplified
-things that would be otherwise unappealling
+things that would be otherwise unappealing
 to the common public: we interact through
 buttons, images, not like the console.
-And then, we still wanted more: dynamic
+And then, we still wanted more: a dynamic
 website. And as you know, what we have
 today is a very sophisticated system
 and different technologies working together
@@ -172,8 +172,8 @@ It deals with annotation.
 Think of it just like the practice
 back then when a writer submitted his
 written work so that it could be published.
-The writer would leave there annotations so that
-when it would be printed, it would be
+The writer would leave their annotations so that
+when printed, it would be
 exactly the writer wanted it.  
 
 ---
