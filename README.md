@@ -65,7 +65,7 @@ with one another. This started
 through the network of 
 being used by soldiers during
 the Cold War: the ARPANet. It was
-accessed by the public later on.
+made accessible to the public later on.
 How computers 
 communicate would depend on the protocol.
 Back then, we had File Transfer Protocol.
