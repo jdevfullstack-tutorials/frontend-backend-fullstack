@@ -26,7 +26,7 @@ And it's very important to understand this:
 (photo credit:
 <https://images.slideplayer.com/19/5827227/slides/slide_3.jpg>)
 
-Programming languages that are considered
+Programming languages are considered
 high-level because it is not close
 to the machine language. A browser is an app
 that is programmed to run on your local
@@ -49,7 +49,7 @@ be another level of abstraction.
 But it's all bytes being
 transferred to another machine in the 
 end. What we see is an outputted
-result not 0s and 1s (representation
+result, not 0s and 1s (representation
 of electric pulse).
 
 ## Front-End Dev
