@@ -14,7 +14,8 @@ the other. It's just like you are comparing two
 unrelated things.
 
 Remember, in the end, it's just programming. 
-The only difference is that you are just having
+Again, the only difference is 
+that you are just having
 focus on one or two, because software development
 nowadays is already a very comprehensive field.
 
