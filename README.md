@@ -85,6 +85,9 @@ upload and download of FTP, he simplified
 things that would be otherwise unappealing
 to the common public: we interact through
 buttons, images, not like the console.
+(The World Wide Web is using the HyperText
+Transfer Protocol (HTTP). When we say
+protocol, it's how data will be interpreted).
 And then, we still wanted more: a dynamic
 website. And as you know, what we have
 today is a very sophisticated system
