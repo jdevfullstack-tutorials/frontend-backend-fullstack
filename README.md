@@ -179,7 +179,7 @@ The writer would leave their annotations so that
 when printed, it would be
 exactly the writer wanted it.  
 
----
+## So The Next Time ...
 So the next time you encounter these terms
 you would not be in awe just like
 when you don't have the idea yet. They
