@@ -62,7 +62,7 @@ of all the things that we have now.
 But again, to make the long story
 short, computers are communicating
 with one another. This started
-through the network of 
+through the network
 being used by soldiers during
 the Cold War: the ARPANet. It was
 made accessible to the public later on.
