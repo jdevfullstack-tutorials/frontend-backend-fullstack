@@ -5,7 +5,8 @@ But nowadays it's getting
 bigger and bigger, more sophisticated technologies.
 
 ## What You Should Know
-Well, it ended up into several subfields that now
+Well, it ended up into several subfields.
+Nowadays, they are too immense that
 you can simply focus on one. But of course, you must
 understand everything here, like sometimes,
 others will start a debate which one is better than
