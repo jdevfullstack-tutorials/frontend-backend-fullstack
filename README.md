@@ -37,8 +37,7 @@ runs on top of the browser. If not, that
 will be a security issue just
 like the Java app container.
 
-Another thing to note is that
-in the field of software development,
+In the field of software development,
 we tend to work on abstraction by 
 adding another layer just like the 
 image above. Even nowadays, there is
