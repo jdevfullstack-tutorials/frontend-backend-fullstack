@@ -79,7 +79,8 @@ made accessible to the public later on.
 How computers 
 communicate would depend on the protocol.
 
-Back then, we had File Transfer Protocol.
+Back then, we had File Transfer Protocol
+(and other protocols).
 Instead of wanting less, we wanted more,
 so that information could be accessible
 to all with less hassle. (Take note,
