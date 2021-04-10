@@ -137,7 +137,10 @@ computer but, of course, have the full
 Internet functions, even WebDAV and FTP
 most of the time. It's communicating
 in terms of the four GET, POST, PUT, DELETE
-and PATCH verbs of HTTP. If you are interested to see
+and PATCH verbs of HTTP
+(HyperText Transfer Protocol is a very
+interesting topic in network programming).
+If you are interested to see
 that, you can check out my program:
 
 <https://github.com/xdvrx1/lightweight-web-server>
