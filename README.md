@@ -8,9 +8,11 @@ bigger and bigger, more sophisticated technologies.
 Well, it ended up into several subfields.
 Nowadays, they are too immense that
 you can simply focus on one. But of course, you must
-understand everything here, like sometimes,
-others will start a debate which one is better than
-the other. It's just like you are comparing two
+understand everything here, which is which.
+For example, others will start a debate
+which one is better than
+the other. But if you have the full knowledge, 
+you would say, it's just like you are comparing two
 unrelated things.
 
 Remember, in the end, it's just programming. 
@@ -18,6 +20,14 @@ Again, the only difference is
 that you are just having
 focus on one or two, because software development
 nowadays is already a very comprehensive field.
+The reason why there are several frameworks,
+for example, and several programming
+languages, is to solve several problems
+in development, so even if it seems they
+are the same, they are not. Those that
+gain popularity mostly are the very
+practical ones, so they are being used
+by developers.
 
 And it's very important to understand this:
 
