@@ -120,7 +120,8 @@ technologies that reside on the browser.
 Remember too that a browser is a program,
 much like anything that runs on your local
 computer but, of course, have the full
-Internet functions. It's communicating
+Internet functions, even WebDAV and FTP. 
+It's communicating
 in terms of the four GET, POST, PUT, DELETE
 and PATCH verbs of HTTP. If you are interested to see
 that, you can check out my program:
