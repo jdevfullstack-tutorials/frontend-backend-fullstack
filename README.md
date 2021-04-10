@@ -202,7 +202,7 @@ It deals with annotation.
 Think of it just like the practice
 back then when a writer submitted his
 written work so that it could be published.
-The writer would leave their annotations so that
+The writer would leave his/her annotations so that
 when printed, it would be
 exactly the writer wanted it.  
 
