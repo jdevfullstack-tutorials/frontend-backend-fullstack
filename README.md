@@ -10,8 +10,8 @@ Nowadays, they are too immense that
 you can simply focus on one. But of course, you must
 understand everything here, which is which.
 For example, others will start a debate
-which one is better than
-the other. But if you have the full knowledge, 
+which is the best framework or scripting
+language. But if you have the full knowledge, 
 you would say, it's just like you are comparing two
 unrelated things.
 
