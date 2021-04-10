@@ -174,7 +174,7 @@ his Facebook in the early days of this platform.
 
 ## About HTML
 It is very important to mention HTML
-because it's the ending of all development.
+because it's the endpoint of all development.
 Others consider HTML as a programming language.
 
 Take note, IT IS NOT A PROGRAMMING LANGUAGE.
