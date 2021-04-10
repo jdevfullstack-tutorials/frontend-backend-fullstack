@@ -68,6 +68,7 @@ even if this is not your interest.
 It will give you the full understanding
 of all the things that we have now.
 
+### A Little Bit Of The Past ...
 But again, to make the long story
 short, computers are communicating
 with one another. This started
@@ -77,6 +78,7 @@ the Cold War: the ARPANet. It was
 made accessible to the public later on.
 How computers 
 communicate would depend on the protocol.
+
 Back then, we had File Transfer Protocol.
 Instead of wanting less, we wanted more,
 so that information could be accessible
