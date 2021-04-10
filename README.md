@@ -38,7 +38,18 @@ And it's very important to understand this:
 
 Programming languages are considered
 high-level because it is not close
-to the machine language. A browser is an app
+to the machine language. It is just like
+the computer and the programmer meets
+halfway. Of course, the programmer
+would find it difficult to programmer
+at low level and the machine
+would not understand the human language.
+So, it's halfway. Still the job of
+any compiler is to translate everything
+so that the computer can follow 
+the instructions of the programmer.
+
+A browser is an app
 that is programmed to run on your local
 computer. So, it adds another layer.
 Whether you are running any script, be
