@@ -41,7 +41,7 @@ high-level because it is not close
 to the machine language. It is just like
 the computer and the programmer meets
 halfway. Of course, the programmer
-would find it difficult to programmer
+would find it difficult to program
 at low level and the machine
 would not understand the human language.
 So, it's halfway. Still the job of
