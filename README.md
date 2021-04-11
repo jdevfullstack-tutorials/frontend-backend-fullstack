@@ -49,6 +49,14 @@ any compiler is to translate everything
 so that the computer can follow 
 the instructions of the programmer.
 
+In the field of software development,
+we tend to work on abstraction by 
+adding another layer just like the 
+image above. Even nowadays, there is
+the current trend of no-code & low-code
+software dev, so that would
+be another level of abstraction. 
+
 A browser is an app
 that is programmed to run on your local
 computer. So, it adds another layer.
@@ -57,14 +65,6 @@ it server-side or browser-side, it
 runs on top of the browser. If not, that
 will be a security issue just
 like the Java app container.
-
-In the field of software development,
-we tend to work on abstraction by 
-adding another layer just like the 
-image above. Even nowadays, there is
-the current trend of no-code & low-code
-software dev, so that would
-be another level of abstraction. 
 
 But it's all bytes being
 transferred to another machine in the 
