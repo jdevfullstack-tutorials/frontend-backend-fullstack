@@ -152,7 +152,8 @@ of JavaScript for web interfaces
 while we can say that `Angular` is for
 heavyweight development. 
 `Twitter Bootstrap` is mainly for the layout
-across multiple devices. 
+across multiple devices, the aim is
+a correct display across devices. 
 
 ## Back-End Dev
 If your code is directly talking to a server
