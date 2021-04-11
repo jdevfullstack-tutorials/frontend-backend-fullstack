@@ -44,7 +44,7 @@ halfway. Of course, the programmer
 would find it difficult to program
 at low level and the machine
 would not understand the human language.
-So, it's halfway. Still the job of
+So, it's halfway. The job of
 any compiler is to translate everything
 so that the computer can follow 
 the instructions of the programmer.
