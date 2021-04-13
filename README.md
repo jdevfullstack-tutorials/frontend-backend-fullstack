@@ -59,14 +59,10 @@ be another level of abstraction.
 
 A browser is an app
 that is programmed to run on your local
-computer. So, it adds another layer.
-Whether you are running any script, be
-it server-side or browser-side, it
-runs on top of the browser. If not, that
-will be a security issue just
-like the Java app container.
-
-But it's all bytes being
+computer. It is the user end
+where sites will be seen as formatted
+content, mainly because of HTML.
+But again, it's all bytes being
 transferred to another machine in the 
 end. What we see is an outputted
 result, not 0s and 1s (representation
