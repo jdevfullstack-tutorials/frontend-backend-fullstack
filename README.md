@@ -82,7 +82,7 @@ But again, to make the long story
 short, computers are communicating
 with one another. This started
 through the network that
-would not use the existing
+should not use an existing
 a central core so that communication
 would still be available even if
 telephone lines were attacked:
