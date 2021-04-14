@@ -189,6 +189,11 @@ to automate things for you. The script
 will do the job that otherwise you would
 do manually.
 
+Java also, other than networking,
+is capable of doing back-end jobs
+paired with several technologies, 
+just like the Spring Boot framework.
+
 ## Full-Stack Dev
 So, combining things together, if a 
 developer is talented enough to handle
