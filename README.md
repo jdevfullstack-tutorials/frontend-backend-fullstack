@@ -109,7 +109,7 @@ capability of computer networking.
 By finding a way to display information
 just like a site, not through
 upload and download of FTP, he simplified
-things that would be otherwise unappealing
+things that would otherwise be unappealing
 to the common public: we interact through
 buttons, images, not through the console.
 (The World Wide Web is using the HyperText
