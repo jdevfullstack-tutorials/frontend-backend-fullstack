@@ -169,7 +169,8 @@ doing things to output the requested HTML.
 
 But why do we need to code in PHP if
 the end result is simply an HTML? 
-Why not simply write directly the HTML?
+Why not simply write directly the HTML
+document?
 
 If your site is simply static, well, you can
 do that. But if your website is just like
