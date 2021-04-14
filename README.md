@@ -95,7 +95,7 @@ communicate would depend on the protocol.
 <https://www.britannica.com/topic/ARPANET>
 
 Back then, we had File Transfer Protocol
-(and other protocols).
+(and other older protocols like Telnet).
 Instead of wanting less, we wanted more,
 so that information could be accessible
 to all with less hassle. (Take note,
