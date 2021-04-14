@@ -81,8 +81,9 @@ It will give you the full understanding.
 But again, to make the long story
 short, computers are communicating
 with one another. This started
-through the network that
-should not use an existing
+through an attempt to create a 
+communication network that
+should not use
 a central core so that communication
 would still be available even if
 telephone lines were attacked:
