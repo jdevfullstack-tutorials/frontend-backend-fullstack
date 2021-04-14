@@ -37,7 +37,7 @@ And it's very important to understand this:
 <https://images.slideplayer.com/19/5827227/slides/slide_3.jpg>)
 
 Programming languages are considered
-high-level because it is not close
+high-level because they are not close
 to the machine language. It is just like
 the computer and the programmer meets
 halfway. Of course, the programmer
