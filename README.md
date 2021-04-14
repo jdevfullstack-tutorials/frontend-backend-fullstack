@@ -226,7 +226,8 @@ exactly the writer wanted it.
 
 ## So The Next Time ...
 So the next time you encounter these terms
-you would not be in awe just like
-when you don't have the idea yet. They
-are just programmers (with, of course,
-different focus) in the end.
+you will not be shocked just like
+when you don't have the full 
+understanding yet. 
+Again, they are just programmers 
+(with, of course, different focus) in the end.
