@@ -72,8 +72,7 @@ And finally, if you never heard
 of computer network programming,
 it's worth learning the basics
 even if this is not your interest.
-It will give you the full understanding
-of all the things that we have now.
+It will give you the full understanding.
 
 ### A Little Bit Of The Past ...
 But again, to make the long story
@@ -122,6 +121,9 @@ Surely, that's not for the general population.
 It's mostly for computer scientists and
 hardcore developers but simply knowing it
 is worth it.
+
+<https://www.w3.org/TR/>
+<https://www.rfc-editor.org/rfc-index.html>
 
 ## Front-End Dev
 The technologies that comprise frontend are
