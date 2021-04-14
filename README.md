@@ -123,6 +123,7 @@ hardcore developers but simply knowing it
 is worth it.
 
 <https://www.w3.org/TR/>
+
 <https://www.rfc-editor.org/rfc-index.html>
 
 ## Front-End Dev
