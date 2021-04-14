@@ -173,9 +173,10 @@ side.
 When a page is requested, say, a PHP code
 is in charge of outputting the HTML,
 the page that a user will be seeing is the 
-end product of PHP, but the PHP, as the 
-script resides at the server side,
-doing things to output the requested HTML.
+end product of PHP. That's actually the
+main role of server-side script, like
+talking to the server directly or
+manipulating a database.
 
 But why do we need to code in PHP if
 the end result is simply an HTML? 
