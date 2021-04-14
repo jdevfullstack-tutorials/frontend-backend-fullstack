@@ -208,6 +208,8 @@ The writer would leave his/her annotations so that
 when printed, it would be
 exactly the writer wanted it.  
 
+<https://www.ncbi.nlm.nih.gov/staff/beck/xml/markup/I-A.html>
+
 ## So The Next Time ...
 So the next time you encounter these terms
 you would not be in awe just like
