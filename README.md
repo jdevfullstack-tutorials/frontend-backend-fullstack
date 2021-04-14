@@ -136,7 +136,7 @@ is worth it.
 <https://www.rfc-editor.org/rfc-index.html>
 
 ## Front-End Dev
-The technologies that comprise frontend are
+The technologies that comprise front-end are
 technologies that reside on the browser.
 
 Remember too that a browser is a program,
