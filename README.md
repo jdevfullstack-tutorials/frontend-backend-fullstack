@@ -193,7 +193,7 @@ do manually.
 So, combining things together, if a 
 developer is talented enough to handle
 both server-side and browser-side, he/she 
-can claim that he is a full stack developer,
+can claim that he/she is a full stack developer,
 much like Mark Zuckerberg when he built
 his Facebook in the early days of this platform.
 
