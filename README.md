@@ -145,7 +145,8 @@ that, you can check out my program:
 <https://github.com/xdvrx1/lightweight-web-server>
 
 So, for example, JavaScript and all technologies that
-are mainly for the browser are considered front-end.
+mainly reside on the browser
+are considered front-end.
 `Vue.js` is considered to be a framework
 of JavaScript for web interfaces 
 while we can say that `Angular` is for
