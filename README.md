@@ -87,7 +87,7 @@ should not use
 a central core so that communication
 would still be available even if
 telephone lines were attacked:
-the ARPANet. It was
+the ARPANET. It was
 made accessible to the public later on.
 How computers 
 communicate would depend on the protocol.
