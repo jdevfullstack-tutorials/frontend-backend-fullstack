@@ -81,12 +81,17 @@ It will give you the full understanding.
 But again, to make the long story
 short, computers are communicating
 with one another. This started
-through the network
-being used by soldiers during
-the Cold War: the ARPANet. It was
+through the network that
+would not use the existing
+a central core so that communication
+would still be available even if
+telephone lines were attacked:
+the ARPANet. It was
 made accessible to the public later on.
 How computers 
 communicate would depend on the protocol.
+
+<https://www.britannica.com/topic/ARPANET>
 
 Back then, we had File Transfer Protocol
 (and other protocols).
