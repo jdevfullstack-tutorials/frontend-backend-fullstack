@@ -89,8 +89,8 @@ would still be available even if
 telephone lines were attacked:
 the ARPANET. It was
 made accessible to the public later on.
-How computers 
-communicate would depend on the protocol.
+This is the Internet nowadays. This should
+not be confused with the World Wide Web.
 
 <https://www.britannica.com/topic/ARPANET>
 
