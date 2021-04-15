@@ -169,7 +169,7 @@ data from a database, this is still not
 back-end dev. The JavaScript code would only
 relay that to a certain program running
 on the server side. So make sure, you are
-not confused with kind of situations.
+not confused with this kind of situation.
 
 ## Back-End Dev
 If your code is directly talking to a server
