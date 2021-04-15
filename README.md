@@ -164,6 +164,13 @@ heavyweight development.
 across multiple devices, the aim is
 a correct display across devices. 
 
+If in case JavaScript was used to fetch
+data from a database, this is still not
+back-end dev. The JavaScript code would only
+relay that to a certain program running
+on the server side. So make sure, you are
+not confused with kind of situations.
+
 ## Back-End Dev
 If your code is directly talking to a server
 or directly manipulates a database, that is 
