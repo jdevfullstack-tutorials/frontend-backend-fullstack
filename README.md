@@ -163,6 +163,14 @@ heavyweight development.
 `Twitter Bootstrap` is mainly for the layout
 across multiple devices, the aim is
 a correct display across devices. 
+(A framework is a shortcut so that
+you as the developer will not manually
+do all the tedious infrastructure, you
+can simply focus on your development.
+Now, you just need a framework when
+it is really needed. As long as 
+you can do the project manually with
+ease, you don't want to use a framework.)
 
 If in case JavaScript was used to fetch
 data from a database, this is still not
