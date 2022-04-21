@@ -1,4 +1,7 @@
 # Front End vs Back End vs Full Stack
+
+*`updated 21 April 2022`*
+
 Maybe you were bombarded by the terms.
 So read on to have the full knowledge.
 
